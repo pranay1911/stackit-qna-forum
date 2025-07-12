@@ -15,7 +15,7 @@ Build a lightweight Q&A forum that allows users to post, answer, tag, and vote o
 | Avan Patel          | avanp2354@gmail.com           |
 | Pratishtha Padhi    | pratishthapadhi@gmail.com     |
 
-🔔 Note: Due to exams, project is being built solo by **Pranay Kumar** for this round.
+
 
 ---
 
